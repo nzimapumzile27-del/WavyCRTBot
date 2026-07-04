@@ -1,0 +1,6 @@
+{
+  "name": "CRT Precision Trader",
+  "description": "CRT + FVG Multi-Timeframe Turtles Body Soup Strategy Trading Bot and Visualizer with MQL5 EA code viewer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
